@@ -51,6 +51,7 @@
 		"patch-console": "^1.0.0",
 		"react-devtools-core": "^4.6.0",
 		"react-reconciler": "^0.24.0",
+		"redux": "^4.0.5",
 		"scheduler": "^0.18.0",
 		"signal-exit": "^3.0.2",
 		"slice-ansi": "^3.0.0",
